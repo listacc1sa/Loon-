@@ -1,7 +1,7 @@
 /*
 引用地址https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/zhihu.js
 */
-// 2024-08-29 16:15
+// 2024-07-29 16:15
 
 if (!$response.body) $done({});
 const url = $request.url;
