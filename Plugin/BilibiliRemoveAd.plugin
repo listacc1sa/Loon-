@@ -1,7 +1,7 @@
 #!name = 哔哩哔哩去广告
 #!desc = 过滤哔哩哔哩广告、移除青少年模式弹窗和交互式弹幕、移除无用功能和链接跟踪参数。此插件仅建议iOS 15以上设备使用，且必须启用MitM-over-HTTP/2功能
 #!openUrl =
-#!author = 就像风住了风又起[https://github.com/S12day00]
+#!author = 就像风住了风又起[https://t.me/S12day00]
 #!homepage = https://github.com/S12day00/Loon
 #!icon = https://raw.githubusercontent.com/S12day00/Loon/main/Icon/App/Bilibili.png
 #!date = 2024-09-28 22:00:06
