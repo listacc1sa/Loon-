@@ -1,5 +1,12 @@
 # Loon资源
 
+![GitHub stars](https://img.shields.io/github/stars/S12day00/Loon?color=ffd700&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/S12day00/Loon?color=60c5ba&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/S12day00/Loon?color=1E90FF&style=for-the-badge)
+![Github Codelines](https://img.shields.io/tokei/lines/github/S12day00/Loon?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/S12day00/Loon?style=for-the-badge)
+[![](https://img.shields.io/badge/-t.me/S12day00-3db6f1?style=for-the-badge&logo=Telegram&logoColor=2ca5e0)](https://t.me/S12day00)
+
 ## 📌前言
 
 🖊本仓库包含常用的分流规则、脚本插件、应用图标、国家旗帜等，规则与插件列表在页面下方。
@@ -12,23 +19,7 @@
 
 📆上次更新时间：2024-10-08 13:02:13
 
-## 💡温馨提示
-
-⚠️本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
-
-⚠️编写本项目主要目的为学习和研究ES6，无法保证项目内容的合法性、准确性、完整性和有效性。
-
-⚠️本项目涉及的数据由使用的个人或组织自行填写，本项目不对数据内容负责，包括但不限于数据的真实性、准确性、合法性。使用本项目所造成的一切后果，与本项目的所有贡献者无关，由使用的个人或组织完全承担。
-
-⚠️本项目中涉及的第三方硬件、软件等，与本项目没有任何直接或间接的关系。本项目仅对部署和使用过程进行客观描述，不代表支持使用任何第三方硬件、软件。使用任何第三方硬件、软件，所造成的一切后果由使用的个人或组织承担，与本项目无关。
-
-⚠️本项目中所有内容只供学习和研究使用，不得将本项目中任何内容用于违反国家/地区/组织等的法律法规或相关规定的其他用途。
-
-⚠️所有基于本项目源代码，进行的任何修改，为其他个人或组织的自发行为，与本项目没有任何直接或间接的关系，所造成的一切后果亦与本项目无关。
-
-⚠️所有直接或间接使用本项目的个人和组织，应24小时内完成学习和研究，并及时删除本项目中的所有内容。如对本项目的功能有需求，应自行开发相关功能。
-
-⚠️本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
+⚠️请认真阅读温馨提示部分的内容。
 
 ## 🔰规则列表
 
@@ -90,6 +81,17 @@
 | [微信小程序去广告](https://github.com/S12day00/Loon/tree/main/Plugin/WeixinMiniProgramsRemoveAd.plugin) |           收录常用小程序的去广告，作者署名在插件内           | 2024-09-27 22:18:09 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/WeixinMiniProgramsRemoveAd.plugin) |
 | [YouTube去广告](https://github.com/S12day00/Loon/tree/main/Plugin/YouTubeRemoveAd.plugin) | 移除YouTube视频、瀑布流、搜索和Shorts中的广告，移除底部的上传按钮，增加画中画及字幕翻译功能，移除YouTube Music底部的上传、选段和升级按钮，增加歌词翻译，支持二者的后台播放，此插件需要Loon版本为3.1.7(677)及以上，且需要启用QUIC回退保护，支持Premium订阅用户使用，不支持tvOS设备 | 2024-06-11 21:59:22 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/YouTubeRemoveAd.plugin) |
 | [知乎去广告](https://github.com/S12day00/Loon/tree/main/Plugin/ZhihuRemoveAd.plugin) |  移除各部分广告，移除知乎安全中心跳转，建议卸载知乎重新安装  | 2024-10-07 21:05:14 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/ZhihuRemoveAd.plugin) |
+
+## 💡温馨提示
+
+1. 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
+2. 编写本项目主要目的为学习和研究ES6，无法保证项目内容的合法性、准确性、完整性和有效性。
+3. 本项目涉及的数据由使用的个人或组织自行填写，本项目不对数据内容负责，包括但不限于数据的真实性、准确性、合法性。使用本项目所造成的一切后果，与本项目的所有贡献者无关，由使用的个人或组织完全承担。
+4. 本项目中涉及的第三方硬件、软件等，与本项目没有任何直接或间接的关系。本项目仅对部署和使用过程进行客观描述，不代表支持使用任何第三方硬件、软件。使用任何第三方硬件、软件，所造成的一切后果由使用的个人或组织承担，与本项目无关。
+5. 本项目中所有内容只供学习和研究使用，不得将本项目中任何内容用于违反国家/地区/组织等的法律法规或相关规定的其他用途。
+6. 所有基于本项目源代码，进行的任何修改，为其他个人或组织的自发行为，与本项目没有任何直接或间接的关系，所造成的一切后果亦与本项目无关。
+7. 所有直接或间接使用本项目的个人和组织，应24小时内完成学习和研究，并及时删除本项目中的所有内容。如对本项目的功能有需求，应自行开发相关功能。
+8. 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
 
 ## 👬特别鸣谢
 
