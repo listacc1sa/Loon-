@@ -1,22 +1,48 @@
 # Loon资源
 
-## 前言
+## 📌前言
 
-本仓库主要包含常用的分流规则、脚本插件、应用图标、国家旗帜，感谢[@blackmatrix7](https://github.com/blackmatrix7)、[@luestr](https://github.com/luestr)、[@chxm1023](https://github.com/chxm1023)、[@RuCu6](https://github.com/RuCu6) （排名不分先后 ）
+🖊本仓库包含常用的分流规则、脚本插件、应用图标、国家旗帜等，规则与插件列表在页面下方。
 
-上次更新时间：2024-10-06 13:03:04
+🙏本仓库中大部分内容收集于互联网开源项目，感谢各位作者的创作。🤝💕
+
+📪如在使用过程中遇到问题，请向上游作者反馈或者Telegram联系我。
+
+☎Telegram联系方式：[@就像风住了风又起](https://t.me/S12day00)
+
+📆上次更新时间：2024-10-08 13:02:13
+
+## 💡温馨提示
+
+1️⃣本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
+
+2️⃣编写本项目主要目的为学习和研究ES6，无法保证项目内容的合法性、准确性、完整性和有效性。
+
+3️⃣本项目涉及的数据由使用的个人或组织自行填写，本项目不对数据内容负责，包括但不限于数据的真实性、准确性、合法性。使用本项目所造成的一切后果，与本项目的所有贡献者无关，由使用的个人或组织完全承担。
+
+4️⃣本项目中涉及的第三方硬件、软件等，与本项目没有任何直接或间接的关系。本项目仅对部署和使用过程进行客观描述，不代表支持使用任何第三方硬件、软件。使用任何第三方硬件、软件，所造成的一切后果由使用的个人或组织承担，与本项目无关。
+
+5️⃣本项目中所有内容只供学习和研究使用，不得将本项目中任何内容用于违反国家/地区/组织等的法律法规或相关规定的其他用途。
+
+6️⃣所有基于本项目源代码，进行的任何修改，为其他个人或组织的自发行为，与本项目没有任何直接或间接的关系，所造成的一切后果亦与本项目无关。
+
+7️⃣所有直接或间接使用本项目的个人和组织，应24小时内完成学习和研究，并及时删除本项目中的所有内容。如对本项目的功能有需求，应自行开发相关功能。
+
+8️⃣本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
+
+## 🔰规则列表
 
 |                           规则名称                           | 规则数量 |    上次更新时间     |                         一键导入Loon                         |
 | :----------------------------------------------------------: | :------: | :-----------------: | :----------------------------------------------------------: |
-| [AppStore](https://github.com/S12day00/Loon/tree/main/Rule/AppStore.list) |    5     |          -          | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/AppStore.list) |
-| [AppleID](https://github.com/S12day00/Loon/tree/main/Rule/AppleID.list) |    4     |          -          | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/AppleID.list) |
-| [ApplePushNotificationService](https://github.com/S12day00/Loon/tree/main/Rule/ApplePushNotificationService.list) |    11    |          -          | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/ApplePushNotificationService.list) |
+| [App Store](https://github.com/S12day00/Loon/tree/main/Rule/AppStore.list) |    5     |          -          | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/AppStore.list) |
+| [Apple ID](https://github.com/S12day00/Loon/tree/main/Rule/AppleID.list) |    4     |          -          | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/AppleID.list) |
+| [Apple Push Notification Service](https://github.com/S12day00/Loon/tree/main/Rule/ApplePushNotificationService.list) |    11    |          -          | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/ApplePushNotificationService.list) |
 | [CN_REGION](https://github.com/S12day00/Loon/tree/main/Rule/CN_REGION) |    1     |          -          | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/CN_REGION) |
 | [GitHub](https://github.com/S12day00/Loon/tree/main/Rule/GitHub.list) |    30    | 2024-07-06 21:31:47 | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/GitHub.list) |
 | [GitLab](https://github.com/S12day00/Loon/tree/main/Rule/GitLab.list) |    6     | 2024-07-03 16:16:52 | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/GitLab.list) |
 | [Google](https://github.com/S12day00/Loon/tree/main/Rule/Google.list) |   722    | 2024-07-06 21:32:50 | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/Google.list) |
 | [Instagram](https://github.com/S12day00/Loon/tree/main/Rule/Instagram.list) |    4     | 2024-07-06 21:34:56 | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/Instagram.list) |
-|  [LAN](https://github.com/S12day00/Loon/tree/main/Rule/LAN)  |    13    |          -          | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/LAN) |
+| [LAN](https://github.com/S12day00/Loon/tree/main/Rule/LAN)  |    13    |          -          | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/LAN) |
 | [Line](https://github.com/S12day00/Loon/tree/main/Rule/Line.list) |    24    | 2024-07-06 21:38:28 | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/Line.list) |
 | [Notion](https://github.com/S12day00/Loon/tree/main/Rule/Notion.list) |    6     | 2024-07-06 21:39:27 | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/Notion.list) |
 | [OpenAI](https://github.com/S12day00/Loon/tree/main/Rule/OpenAI.list) |    36    | 2024-07-06 21:39:44 | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/OpenAI.list) |
@@ -28,7 +54,7 @@
 | [Wikipedia](https://github.com/S12day00/Loon/tree/main/Rule/Wikipedia.list) |    12    | 2024-07-06 21:51:29 | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/Wikipedia.list) |
 | [YouTube](https://github.com/S12day00/Loon/tree/main/Rule/YouTube.list) |   190    | 2024-07-06 21:52:55 | [🎈](https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/S12day00/Loon/main/Rule/YouTube.list) |
 
-## 插件[Plugin](https://github.com/S12day00/Loon/tree/main/Plugin)
+## 🔐插件列表
 
 |                           插件名称                           |                             介绍                             |    上次更新时间     |                         一键导入Loon                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------: | :----------------------------------------------------------: |
@@ -58,20 +84,13 @@
 | [Spotify去广告](https://github.com/S12day00/Loon/tree/main/Plugin/SpotifyRemoveAd.plugin) | 过滤Spotify播放广告，移除随机播放，恢复歌手和专辑列表的正常展示，建议重新登录并清除缓存，且音质不能设置为超高，仅建议iOS 15及以上设备使用 | 2024-04-28 15:54:48 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/SpotifyRemoveAd.plugin) |
 | [淘宝去广告](https://github.com/S12day00/Loon/tree/main/Plugin/TaobaoRemoveAd.plugin) |                       过滤淘宝开屏广告                       | 2024-01-25 18:00:54 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/TaobaoRemoveAd.plugin) |
 | [航旅纵横去广告](https://github.com/S12day00/Loon/tree/main/Plugin/UmetripRemoveAd.plugin) |                       过滤航旅纵横广告                       | 2023-10-27 11:24:48 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/UmetripRemoveAd.plugin) |
-| [微博去广告](https://github.com/S12day00/Loon/tree/main/Plugin/WeiboRemoveAd.plugin) |               过滤微博广告及去除各部分推广模块               | 2024-10-04 15:10:56 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/WeiboRemoveAd.plugin) |
+| [微博去广告](https://github.com/S12day00/Loon/tree/main/Plugin/WeiboRemoveAd.plugin) |               过滤微博广告及去除各部分推广模块               | 2024-10-07 21:05:14 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/WeiboRemoveAd.plugin) |
 | [微信外部链接解锁](https://github.com/S12day00/Loon/tree/main/Plugin/WeixinExternalLinks.plugin) | 解锁微信外部链接访问限制，跳过中间界面，支付宝链接、被封禁链接进行通知弹窗跳转，在微信中用快照显示被封禁的链接（可选），在微信中进行强制重定向（可选），群聊及扫码均可使用，可选项可在脚本的2~3行更改，也可在BoxJs中更改 | 2024-01-17 19:20:19 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/WeixinExternalLinks.plugin) |
 | [微信公众号去广告](https://github.com/S12day00/Loon/tree/main/Plugin/WeixinOfficialAccountsRemoveAd.plugin) |                      过滤微信公众号广告                      | 2024-09-05 23:53:41 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/WeixinOfficialAccountsRemoveAd.plugin) |
 | [微信小程序去广告](https://github.com/S12day00/Loon/tree/main/Plugin/WeixinMiniProgramsRemoveAd.plugin) |           收录常用小程序的去广告，作者署名在插件内           | 2024-09-27 22:18:09 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/WeixinMiniProgramsRemoveAd.plugin) |
 | [YouTube去广告](https://github.com/S12day00/Loon/tree/main/Plugin/YouTubeRemoveAd.plugin) | 移除YouTube视频、瀑布流、搜索和Shorts中的广告，移除底部的上传按钮，增加画中画及字幕翻译功能，移除YouTube Music底部的上传、选段和升级按钮，增加歌词翻译，支持二者的后台播放，此插件需要Loon版本为3.1.7(677)及以上，且需要启用QUIC回退保护，支持Premium订阅用户使用，不支持tvOS设备 | 2024-06-11 21:59:22 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/YouTubeRemoveAd.plugin) |
-| [知乎去广告](https://github.com/S12day00/Loon/tree/main/Plugin/ZhihuRemoveAd.plugin) |  移除各部分广告，移除知乎安全中心跳转，建议卸载知乎重新安装  | 2024-10-02 13:00:15 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/ZhihuRemoveAd.plugin) |
+| [知乎去广告](https://github.com/S12day00/Loon/tree/main/Plugin/ZhihuRemoveAd.plugin) |  移除各部分广告，移除知乎安全中心跳转，建议卸载知乎重新安装  | 2024-10-07 21:05:14 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/ZhihuRemoveAd.plugin) |
 
-## 特别声明
+## 👬特别鸣谢
 
-1. 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
-2. 编写本项目主要目的为学习和研究ES6，无法保证项目内容的合法性、准确性、完整性和有效性。
-3. 本项目涉及的数据由使用的个人或组织自行填写，本项目不对数据内容负责，包括但不限于数据的真实性、准确性、合法性。使用本项目所造成的一切后果，与本项目的所有贡献者无关，由使用的个人或组织完全承担。
-4. 本项目中涉及的第三方硬件、软件等，与本项目没有任何直接或间接的关系。本项目仅对部署和使用过程进行客观描述，不代表支持使用任何第三方硬件、软件。使用任何第三方硬件、软件，所造成的一切后果由使用的个人或组织承担，与本项目无关。
-5. 本项目中所有内容只供学习和研究使用，不得将本项目中任何内容用于违反国家/地区/组织等的法律法规或相关规定的其他用途。
-6. 所有基于本项目源代码，进行的任何修改，为其他个人或组织的自发行为，与本项目没有任何直接或间接的关系，所造成的一切后果亦与本项目无关。
-7. 所有直接或间接使用本项目的个人和组织，应24小时内完成学习和研究，并及时删除本项目中的所有内容。如对本项目的功能有需求，应自行开发相关功能。
-8. 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
+[@blackmatrix7](https://github.com/blackmatrix7)、[@luestr](https://github.com/luestr)、[@chxm1023](https://github.com/chxm1023)、[@RuCu6](https://github.com/RuCu6) 、[@app2smile](https://github.com/app2smile)、[@chavyleung](https://github.com/chavyleung)、[@chengkongyiban](https://github.com/chengkongyiban)、[@I-am-R-E](https://github.com/I-am-R-E)、[@Keywos](https://github.com/Keywos)、[@NobyDa](https://github.com/NobyDa)、[@zmqcherish](https://github.com/zmqcherish)（排名不分先后）
