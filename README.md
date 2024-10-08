@@ -1,10 +1,13 @@
 # Loon资源
 
-![GitHub stars](https://img.shields.io/github/stars/S12day00/Loon?color=ffd700&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/S12day00/Loon?color=60c5ba&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/S12day00/Loon?color=1E90FF&style=for-the-badge)
-![Github Codelines](https://img.shields.io/tokei/lines/github/S12day00/Loon?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/S12day00/Loon?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/S12day00/Loon?style=for-the-badge)
+![GitHub Size](https://img.shields.io/github/languages/code-size/S12day00/Loon?style=for-the-badge)
+![GitHub Contributors](https://img.shields.io/github/contributors/S12day00/Loon?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/S12day00/Loon?color=ffd700&style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/S12day00/Loon?color=60c5ba&style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/S12day00/Loon?color=1E90FF&style=for-the-badge)
+![GitHub Commits](https://img.shields.io/github/commit-activity/y/S12day00/Loon?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/S12day00/Loon?style=for-the-badge)
 [![](https://img.shields.io/badge/-t.me/S12day00-3db6f1?style=for-the-badge&logo=Telegram&logoColor=2ca5e0)](https://t.me/S12day00)
 
 ## 📌前言
