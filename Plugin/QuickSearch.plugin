@@ -2,6 +2,10 @@
 #!desc = 为Safari提供快速切换搜索引擎的能力，点击下方链接查看使用说明
 #!openUrl = https://raw.githubusercontent.com/S12day00/Loon/main/Document/QuickSearch/READNE.md
 #!author = 就像风住了风又起[https://t.me/S12day00]
+#!tag = 功能增强
+#!system =
+#!system_version =
+#!loon_version = 3.2.1(749)
 #!homepage = https://github.com/S12day00/Loon
 #!icon = https://raw.githubusercontent.com/S12day00/Loon/main/Icon/App/Safari.png
 #!date = 2024-06-02 13:48:55

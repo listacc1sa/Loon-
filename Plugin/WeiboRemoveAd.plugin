@@ -2,9 +2,13 @@
 #!desc = 过滤微博广告及去除各部分推广模块
 #!openUrl = 
 #!author = 就像风住了风又起[https://t.me/S12day00]
+#!tag = 去广告
+#!system =
+#!system_version =
+#!loon_version = 3.2.1(749)
 #!homepage = https://github.com/S12day00/Loon
 #!icon = https://raw.githubusercontent.com/S12day00/Loon/main/Icon/App/Weibo.png
-#!date = 2024-10-14 01:33:03
+#!date = 2024-10-15 12:37:18
 
 [Rule]
 # 请求放行
