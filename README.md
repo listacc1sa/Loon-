@@ -20,7 +20,7 @@
 
 ☎Telegram联系方式：[@就像风住了风又起](https://t.me/S12day00)
 
-📆上次更新时间：2024-10-15 13:19:50
+📆上次更新时间：2024-10-15 22:28:58
 
 ⚠️请认真阅读温馨提示部分的内容。
 
@@ -55,7 +55,7 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------: | :----------------------------------------------------------: |
 | [12306去广告](https://github.com/S12day00/Loon/tree/main/Plugin/12306RemoveAd.plugin) |                过滤12306应用内广告及开屏广告                 | 2024-02-20 17:20:29 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/12306RemoveAd.plugin) |
 | [高德地图去广告](https://github.com/S12day00/Loon/tree/main/Plugin/AmapRemoveAd.plugin) |        过滤高德地图开屏广告、各页面推广，精简我的页面        | 2024-10-15 10:15:26 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/AmapRemoveAd.plugin) |
-| [Bilibili去广告](https://github.com/S12day00/Loon/tree/main/Plugin/BilibiliRemoveAd.plugin) | 过滤Bilibili广告、移除青少年模式弹窗和交互式弹幕、移除无用功能和链接跟踪参数，此插件仅建议iOS 15以上设备使用，且必须启用MitM-over-HTTP/2功能 | 2024-10-15 11:36:18 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/BilibiliRemoveAd.plugin) |
+| [哔哩哔哩去广告](https://github.com/S12day00/Loon/tree/main/Plugin/BilibiliRemoveAd.plugin) | 过滤哔哩哔哩广告、移除青少年模式弹窗和交互式弹幕、移除无用功能和链接跟踪参数，此插件仅建议iOS 15以上设备使用，且必须启用MitM-over-HTTP/2功能 | 2024-10-15 21:07:19 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/BilibiliRemoveAd.plugin) |
 | [Bing AI](https://github.com/S12day00/Loon/tree/main/Plugin/BingAI.plugin) |   将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制   | 2023-09-08 13:48:55 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/BingAI.plugin) |
 | [拦截HTTPDNS](https://github.com/S12day00/Loon/tree/main/Plugin/BlockHTTPDNS.plugin) | 拦截常见的HTTPDNS服务，以确保这些请求都能够在Loon的DNS框架下工作 | 2024-09-25 15:45:58 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/BlockHTTPDNS.plugin) |
 | [BoxJs](https://github.com/S12day00/Loon/tree/main/Plugin/BoxJs.plugin) | JavaScript数据管理器，用于管理脚本储存的数据，使用前请在本插件的详情页面为[PROXY]项分配代理策略 | 2024-04-23 08:28:27 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/BoxJs.plugin) |
