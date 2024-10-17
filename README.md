@@ -20,7 +20,7 @@
 
 ☎Telegram联系方式：[@就像风住了风又起](https://t.me/S12day00)
 
-📆上次更新时间：2024-10-15 22:28:58
+📆上次更新时间：2024-10-16 11:58:55
 
 ⚠️请认真阅读温馨提示部分的内容。
 
@@ -80,7 +80,7 @@
 | [Sub-Store](https://github.com/S12day00/Loon/tree/main/Plugin/Sub-Store.plugin) | 高级订阅管理工具，使用前请在本插件的详情页面为[PROXY]项分配代理策略 | 2024-02-23 20:09:25 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/Sub-Store.plugin) |
 | [淘宝去广告](https://github.com/S12day00/Loon/tree/main/Plugin/TaobaoRemoveAd.plugin) |                       过滤淘宝开屏广告                       | 2024-01-25 18:00:54 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/TaobaoRemoveAd.plugin) |
 | [航旅纵横去广告](https://github.com/S12day00/Loon/tree/main/Plugin/UmetripRemoveAd.plugin) |                       过滤航旅纵横广告                       | 2023-10-27 11:24:48 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/UmetripRemoveAd.plugin) |
-| [微博去广告](https://github.com/S12day00/Loon/tree/main/Plugin/WeiboRemoveAd.plugin) |               过滤微博广告及去除各部分推广模块               | 2024-10-15 13:10:13 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/WeiboRemoveAd.plugin) |
+| [微博去广告](https://github.com/S12day00/Loon/tree/main/Plugin/WeiboRemoveAd.plugin) |               过滤微博广告及去除各部分推广模块               | 2024-10-16 11:58:29 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/WeiboRemoveAd.plugin) |
 | [微信外部链接解锁](https://github.com/S12day00/Loon/tree/main/Plugin/WeixinExternalLinks.plugin) | 解锁微信外部链接访问限制，跳过中间界面，支付宝链接、被封禁链接进行通知弹窗跳转，在微信中用快照显示被封禁的链接（可选），在微信中进行强制重定向（可选），群聊及扫码均可使用，可选项可在脚本的2~3行更改，也可在BoxJs中更改 | 2024-01-17 19:20:19 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/WeixinExternalLinks.plugin) |
 | [微信公众号去广告](https://github.com/S12day00/Loon/tree/main/Plugin/WeixinOfficialAccountsRemoveAd.plugin) |                      过滤微信公众号广告                      | 2024-09-05 23:53:41 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/WeixinOfficialAccountsRemoveAd.plugin) |
 | [微信小程序去广告](https://github.com/S12day00/Loon/tree/main/Plugin/WeixinMiniProgramsRemoveAd.plugin) |           收录常用小程序的去广告，作者署名在插件内           | 2024-09-27 22:18:09 | [🎈](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/S12day00/Loon/main/Plugin/WeixinMiniProgramsRemoveAd.plugin) |
