@@ -8,7 +8,7 @@
 #!loon_version = 3.2.1(749)
 #!homepage = https://github.com/S12day00/Loon
 #!icon = https://raw.githubusercontent.com/S12day00/Loon/main/Icon/App/QQMusic.png
-#!date = 2024-07-07 15:31:22
+#!date = 2024-10-19 17:18:31
 
 [Rule]
 DOMAIN, adstats.tencentmusic.com, REJECT
@@ -22,17 +22,11 @@ DOMAIN, monitor.music.qq.com, REJECT
 DOMAIN, stat.y.qq.com, REJECT
 DOMAIN, tmead.y.qq.com, REJECT
 DOMAIN, tmeadquic.y.qq.com, REJECT
-# DOMAIN, oth.str.mdt.qq.com, REJECT
+DOMAIN, oth.str.mdt.qq.com, REJECT
 DOMAIN, h.trace.qq.com, REJECT
 DOMAIN, sdk.e.qq.com, REJECT
 DOMAIN, p.l.qq.com, REJECT
 DOMAIN, us.l.qq.com, REJECT
 DOMAIN, tangram.e.qq.com, REJECT
-DOMAIN, tmeadbak.y.qq.com, REJECT-NO-DROP
+DOMAIN, tmeadbak.y.qq.com, REJECT
 DOMAIN-SUFFIX, imtmp.net, REJECT
-
-# [Rewrite]
-# ^https:\/\/shc6\.y\.qq\.com\/tips\/fcgi-bin\/fcg_get_advert\.fcg
-
-# [MitM]
-# hostname = shc6.y.qq.com
