@@ -14,7 +14,7 @@
 // 如果不使用BoxJS配置，可以在这里修改
 let config = {
     username: "S12day00", // 用户名
-    token: "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", // token
+    token: "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", // token
 };
 
 // load user prefs from box
