@@ -88,7 +88,7 @@ http-response ^https:\/\/new\.vip\.weibo\.cn\/aj\/appicon\/list\? script-path = 
 # 跳过重定向页面以直接访问 //weibo.cn, shop.sc.weibo.com, t.cn, sinaurl.cn
 # http-request ^https:\/\/weibo\.cn\/sinaurl\?(.*&)?(u|toasturl|goto)= script-path = https://raw.githubusercontent.com/S12day00/Loon/main/Script/Weibo/WeiboRedirect.js, tag = 跳过重定向
 # http-request ^https:\/\/shop\.sc\.weibo\.com\/h5\/jump\/error\?(.*&)?url= script-path = https://raw.githubusercontent.com/S12day00/Loon/main/Script/Weibo/WeiboRedirect.js, tag = 跳过重定向
-# http-response ^https:\/\/(sinaurl|t)\.cn\/ script-path = https://raw.githubusercontent.com/S12day00/Loon/main/Script/Weibo/Weibo_remove_redirect.js, tag = 跳过重定向
+# http-response ^https:\/\/(sinaurl|t)\.cn\/ script-path = https://raw.githubusercontent.com/S12day00/Loon/main/Script/Weibo/WeiboRedirect.js, tag = 跳过重定向
 
 [MitM]
 # hostname = *.weibo.cn, *.weibo.com, sinaurl.cn, t.cn, weibo.cn
