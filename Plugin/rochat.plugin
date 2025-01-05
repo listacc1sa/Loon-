@@ -1,0 +1,11 @@
+#!name=rochat 
+#!desc=rochat 
+#!icon=https://cdn-avatars.huggingface.co/v1/production/uploads/64d8f3a9c3b41747a2a49e93/4DpgzyjbrPy5w-hXU0pKe.png.png
+
+[Script]
+http-response https://api.rochathub.com/inteco.user.v1.UserRightsService/GetUserRights script-path=https://github.com/sultan1sa/Ddd/raw/refs/heads/main/sfh/main1, requires-body=true, timeout=60, tag=.com/sultan1sa/Ddd/raw/refs/heads/main/sfh/
+
+http-response https://api.rochathub.com/inteco.user.v1.UserRightsService/GetUserRights script-path=https://github.com/sultan1sa/Ddd/raw/refs/heads/main/sfh/main2, requires-body=true, timeout=60, tag=.com/sultan1sa/Ddd/raw/refs/heads/main/sfh/
+
+[MITM]
+hostname = api.rochathub.com
